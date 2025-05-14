@@ -8,7 +8,7 @@ Sou um desenvolvedor Fullstack em formação, com grande paixão por tecnologia 
 
 [![LinkedIn](https://img.shields.io/badge/-Eduardo%20Hill%20Favero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-hill-fávero)
 
-[![Email](https://img.shields.io/badge/-eduardohill@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:eduardohill@gmail.com)
+[![Email](https://img.shields.io/badge/-eduardohillfav@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:eduardohill@gmail.com)
 
 ---
 
